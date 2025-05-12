@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "640941934000",
+    "project_id": "momo-app-831e5",
+    "storage_bucket": "momo-app-831e5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640941934000:android:4ddc7444789c3b0bfd0275",
+        "android_client_info": {
+          "package_name": "com.example.ClassMate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640941934000-4r4l3dna8gtnef8m8ibk8oedvm9e7ckr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsHSOJABsqZPzUKs0v3AqdIBB2piUSymU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640941934000-4r4l3dna8gtnef8m8ibk8oedvm9e7ckr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "640941934000-cet5m2n4nmj733ar9nt90vh0r3p3io7q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ClassMate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
