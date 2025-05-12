@@ -29,3 +29,4 @@ Future<void> stopAdvertising() async {
     print("Failed to stop advertising: '${e.message}'.");
   }
 }
+

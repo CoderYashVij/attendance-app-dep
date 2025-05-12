@@ -222,7 +222,7 @@ class AttendanceResultOfToday extends StatelessWidget {
                   size: 100,
                 ),
                 Text(
-                  isPresent ? 'You have been marked present' : 'You have been marked absent',
+                  true ? 'You have been marked present' ,
                   style: const TextStyle(
                     fontSize: 20,
                     fontWeight: FontWeight.bold,
